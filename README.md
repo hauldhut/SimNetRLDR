@@ -8,7 +8,6 @@ Drug repositioning, the identification of new therapeutic indications for existi
 - **Data**: Contains all data 
 - **Code**: Contains all source code to reproduce all the results
 - **Results**: To store simulation results
-  - **Evidence**: To store collected evidence
 
 ## How to run
 - Download the repo
