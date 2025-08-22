@@ -1,9 +1,9 @@
 ## Enviroment Setup
-- For Python-based Code
+- **For Python-based Code**
   - *conda env create -f SimNetRLDR.yml*: To run SimNetRLDR
   - *conda env create -f DDAGDL_RGLDR.yml*: To run DDAGDL and RGLDR
-- For R-based Code (run MHDR, and visualize drug-disease associations): Install R packages
-  - *RandomWalkRestartMH, igraph, foreach, doParallel, ROCR, ggplot2, Metrics, hash*
+- **For R-based Code**: To run MHDR, and visualize drug-disease associations
+  - *Install R packages: RandomWalkRestartMH, igraph, foreach, doParallel, ROCR, ggplot2, Metrics, hash*
 
 ## Simulations
 - **Generate Embeddings**
