@@ -18,7 +18,7 @@
 
 ## Summary
   - *summarize.py*: To summarize and create heatmaps for various combinations of drug and disease similarity networks, embedding sizes, and epochs
-  - *create_Fig3_Fig4.py*: To create Figure 3 and 4
+  - *create_Figures.py*: To create Figure 3 and 4
   - *visualize_DrugDisease_from_Evidence_Final.R*: To visualize drug-disease associations via pathways
 
 ## Comparison
