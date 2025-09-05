@@ -1,4 +1,4 @@
-## Enviroment Setup
+## Environment Setup
 - **For Python-based Code**
   - *conda env create -f SimNetRLDR.yml*: To run SimNetRLDR
   - *conda env create -f DDAGDL_RGLDR.yml*: To run DDAGDL and RGLDR
